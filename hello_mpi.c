@@ -1,6 +1,7 @@
    #include <mpi.h>
  2 #include <stdio.h>
  3
+ 
  4 int main(int argc, char** argv) {
  5     // Initialize the MPI environment
  6     MPI_Init(NULL, NULL);
